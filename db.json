@@ -1,8 +1,8 @@
 {
   "perguntas": [
-    { "id": 1, "pergunta": "Post 1", "opcao1": "Opcao 1", "opcao2": "Opcao 2", "opcao3": "Opcao 3"},
-    { "id": 2, "pergunta": "Post 1", "opcao1": "Opcao 1", "opcao2": "Opcao 2", "opcao3": "Opcao 3" },
-    { "id": 3, "pergunta": "Post 1", "opcao1": "Opcao 1", "opcao2": "Opcao 2", "opcao3": "Opcao 3" }
+    { "id": 1, "pergunta": "Qual seu comportamento em relação aos seus investimentos?", "opcao1": "Preservar meu dinheiro sem correr riscos", "opcao2": "Ganhar mais dinheiro assumindo riscos moderados", "opcao3": "Ganhar mais dinheiro assumindo riscos agressivos"},
+    { "id": 2, "pergunta": "Por quanto tempo você deseja manter os seus investimentos?", "opcao1": "Até 1 ano", "opcao2": "De 1 a 3 anos", "opcao3": "Mais de 3 anos" },
+    { "id": 3, "pergunta": "Quantos % desses investimentos você pode precisar em um ano?", "opcao1": "Acima de 75%", "opcao2": "De 26% a 74%", "opcao3": "Até 25%" }
   ],
   "assuntos": [
     { "id": 1, "body": "Títulos de renda fixa ou Tesouro Direto"},
