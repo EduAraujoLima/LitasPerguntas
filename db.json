@@ -6,6 +6,8 @@
   ],
   "assuntos": [
     { "id": 1, "body": "some comment"},
-    { "id": 2, "body": "some comment"}
+    { "id": 2, "body": "some comment"},
+    { "id": 3, "body": "some comment"},
+    { "id": 4, "body": "some comment"}
   ]
 }
