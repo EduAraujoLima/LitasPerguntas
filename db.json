@@ -1,10 +1,12 @@
 [
     {
+        "id": 1,
         "title": "Colectoria",
         "subtitle": "Residuos Eletrônicos, Lâmpadas",
         "text": "Rio Grande do Sul, Santa Catarina Guilherme Gemballa, Jardim América, 260"
     },
-    {
+    {   
+        "id": 2,
         "title": "Papersider",
         "subtitle": "Papéis e Papelão",
         "text": "Rio Grande do Sul, Santa Catarina Guilherme Gemballa, Jardim América, 260"
